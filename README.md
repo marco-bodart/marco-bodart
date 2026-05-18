@@ -15,16 +15,6 @@ Experiencia en diseño de APIs, autenticación y manejo de bases de datos relaci
 
 ---
 
-## 🧠 Enfoque actual
-
-- Desarrollo de APIs REST con .NET
-- Arquitectura backend basada en servicios
-- Autenticación y autorización (JWT)
-- Lógica de negocio para sistemas empresariales
-- Bases de datos relacionales con SQL Server
-
----
-
 ## 🧰 Tecnologías
 
 ### Backend (principal)
