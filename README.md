@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <sub>Backend Developer | .NET & SQL Server</sub>
+  <sub>Backend Developer | .NET, Laravel & SQL Server</sub>
 </p>
 
 ---
