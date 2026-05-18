@@ -8,8 +8,6 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-
 Backend Developer enfocado en el desarrollo de sistemas empresariales, APIs REST y lógica de negocio.  
 Experiencia en diseño de APIs, autenticación y manejo de bases de datos relacionales.
 
