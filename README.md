@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Marco Bodart</h1>
 
-<!--
-**marco-bodart/marco-bodart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <sub>Backend Developer | .NET · Laravel · SQL Server</sub>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Developer con experiencia en desarrollo de APIs REST, sistemas empresariales y bases de datos relacionales.
+
+---
+
+## Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 💼 Proyecto destacado
+
+### Bot para Discord (League of Legends) 🎮
+Bot de Discord para organizar partidas personalizadas de League of Legends mediante la creación y sorteo automático de equipos dentro de canales de texto. 
+
+📁 [Repositorio](https://github.com/marco-bodart/lolsito-bot-sorteador)
