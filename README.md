@@ -1,8 +1,8 @@
-<p align="center">
+<h2 align="center">
   <strong>Desarrollador Backend</strong>
-</p>
+</h2>
 
-Experiencia en desarrollo de APIs REST, sistemas empresariales y bases de datos relacionales.
+<p align="center">Experiencia en desarrollo de APIs REST, sistemas empresariales y bases de datos relacionales.</p>
 
 ---
 
