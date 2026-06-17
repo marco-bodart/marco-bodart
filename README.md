@@ -1,12 +1,8 @@
-<h1 align="center">Marco Bodart</h1>
-
 <p align="center">
-  <sub>Backend Developer | .NET · Laravel · SQL Server</sub>
+  <strong>Desarrollador Backend</strong>
 </p>
 
----
-
-Backend Developer con experiencia en desarrollo de APIs REST, sistemas empresariales y bases de datos relacionales.
+Experiencia en desarrollo de APIs REST, sistemas empresariales y bases de datos relacionales.
 
 ---
 
