@@ -1,12 +1,15 @@
 <h2 align="center">
-  <strong>Desarrollador Backend</strong>
+  <strong>Backend Developer</strong>
 </h2>
 
-<p align="center">Experiencia en desarrollo de APIs REST, sistemas empresariales y bases de datos relacionales.</p>
+<p align="center">
+  Experience in developing REST APIs, enterprise systems, and relational databases.
+</p>
+
 
 ---
 
-## Tecnologías
+<h2 align="center">Tech stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -21,9 +24,10 @@
 
 ---
 
-## 💼 Proyecto destacado
+## 💼 Featured Project
 
-### Bot para Discord (League of Legends) 🎮
-Bot de Discord para organizar partidas personalizadas de League of Legends mediante la creación y sorteo automático de equipos dentro de canales de texto. 
+### 🎮 Discord Bot for League of Legends
 
-📁 [Repositorio](https://github.com/marco-bodart/lolsito-bot-sorteador)
+Automates custom League of Legends matches by creating and randomly assigning teams within Discord text channels.
+
+📁 [Repository](https://github.com/marco-bodart/lolsito-bot-sorteador)
